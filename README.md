@@ -1,6 +1,6 @@
 # bamazon_app
 
-Welcome to Bamazon
+Welcome to Bamazon, the MySQL and Javascript Shopping Experience you were looking for!
 TO BEGIN:
 1. Run application through node.js in terminal. User is shown list of product for sale, populated by the database "bamazon_db" from mysql.
 2. The user is then prompted to select a product to buy, indicated by the ID# of the left hand of the table.
